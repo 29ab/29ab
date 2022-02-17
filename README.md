@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 <h3 align="center">A passionate frontend developer.Dedicated and accountable Full Stack Web Developer. Learning MERN stack. </h3>
+
 <p align="center"> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" alt="29ab" width="1000"/> </p>
 
+## 🙋‍♂️ About me
+<hr/>
 🌱 I’m currently learning **Full stack web development**
 
 🤝 I am looking for the open sorce contribution , If you want to help please message me. It will be really helpfull.
