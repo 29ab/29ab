@@ -33,8 +33,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> &nbsp
 </p>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29ab&show_icons=true&locale=en" alt="29ab" /></p> <br/>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29ab&show_icons=true&locale=en" alt="29ab" /></p> <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29ab&" alt="29ab" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29ab&" alt="29ab" /></p>
