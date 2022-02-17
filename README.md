@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<p align="left"> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" alt="29ab" /> </p>
+<p align="center"> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" alt="29ab" /> </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p>
 
