@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 <h3 align="center">A passionate frontend developer.Dedicated and accountable Full Stack Web Developer. Learning MERN stack.</h3>
 <p align="center"> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" alt="29ab" /> </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p> -->
 
-<p align="left"> <a href="https://twitter.com/@abhishe37101858" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe37101858?logo=twitter&style=for-the-badge" alt="twitter_icon" /></a> </p>
+🌱 I’m currently learning **Full stack web development**
 
-🌱 I’m currently learning **React & redux**
-
-📫 How to reach me **abhishekchauhan29101996@gmail.com**
+I am looking for the open sorce contribution , If you want to help please message me. It will be really helpfull.
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h3 align="center">Connect with me:</h3><br/>
 
@@ -22,7 +19,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3> <br/>
+<h3 align="center">Languages and Tools:</h3> <br/>
 
 <p align="left"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a> &nbsp &nbsp 
