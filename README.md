@@ -4,13 +4,14 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p>
 
-<p align="left"> <a href="https://twitter.com/@abhishe37101858" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe37101858?logo=twitter&style=for-the-badge" alt="@abhishe37101858" /></a> </p><br/>
+<p align="left"> <a href="https://twitter.com/@abhishe37101858" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe37101858?logo=twitter&style=for-the-badge" alt="twitter_icon" /></a> </p>
 
 🌱 I’m currently learning **React & redux**
 
 📫 How to reach me **abhishekchauhan29101996@gmail.com**
-
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h3 align="center">Connect with me:</h3><br/>
+
 <p align="center">
 <a href="https://codepen.io/@29pen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@29pen" height="30" width="40" /></a> &nbsp &nbsp 
 <a href="https://twitter.com/@abhishe37101858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe37101858" height="30" width="40" /></a>&nbsp &nbsp
@@ -21,7 +22,9 @@
 <a href="https://www.hackerrank.com/@abhishekchauha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishekchauha27" height="30" width="40" /></a> 
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3> <br/>
+
 <p align="left"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a> &nbsp &nbsp 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-         wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp &nbsp
@@ -32,7 +35,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp &nbsp
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> &nbsp
 </p>
-
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29ab&show_icons=true&locale=en" alt="29ab" /></p>
