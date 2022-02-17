@@ -4,11 +4,11 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p>
 
-<p align="left"> <a href="https://twitter.com/@abhishe37101858" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe37101858?logo=twitter&style=for-the-badge" alt="@abhishe37101858" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@abhishe37101858" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe37101858?logo=twitter&style=for-the-badge" alt="@abhishe37101858" /></a> </p><br/>
 
-- 🌱 I’m currently learning **React & redux**
+🌱 I’m currently learning **React & redux**
 
-- 📫 How to reach me **abhishekchauhan29101996@gmail.com**
+📫 How to reach me **abhishekchauhan29101996@gmail.com**
 
 <h3 align="center">Connect with me:</h3><br/>
 <p align="center">
