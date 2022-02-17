@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer.Dedicated and accountable Full Stack Web Developer. Learning MERN stack.</h3>
 <p align="center"> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" alt="29ab" /> </p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p> <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29ab&show_icons=true&locale=en&layout=compact" alt="29ab" /></p>
 
 <p align="left"> <a href="https://twitter.com/@abhishe37101858" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe37101858?logo=twitter&style=for-the-badge" alt="@abhishe37101858" /></a> </p>
 
@@ -14,9 +14,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@29pen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@29pen" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/@29pen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@29pen" height="30" width="40" /></a> &nbsp &nbsp &nbsp
 <a href="https://twitter.com/@abhishe37101858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe37101858" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek chauhan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:17816793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17816793" height="30" width="40" /></a>
