@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About me
 
- <p font-size = "18">🌱 I’m currently learning **Full stack web development** <p/>
+ <p font-size = "18">🌱 I’m currently learning <strong> Full stack web development <strong/> <p/>
 
 <p font-size = "18"> 🤝 I am looking for the open sorce contribution , If you want to help please message me. It will be really helpfull.<p/>
 <br/>
