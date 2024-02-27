@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
-<h3 align="center">A passionate frontend developer.Dedicated and accountable Full Stack Web Developer. Learning MERN stack. </h3>
+<h3 align="center">A passionate frontend developer.Dedicated, fast learner and team player </h3>
 
 <p align="center"> <img src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif" alt="29ab" width="1000"/> </p>
 
 ## 🙋‍♂️ About me
 
- <p font-size = "18">🌱 I’m currently learning <strong> Full stack web development <strong/> <p/>
+ <p font-size = "18">🌱 I’m a Software Engineer (frontend) and having 2years of exprience. Solved several bugs, several UI bugs & giving proper solution so that it could look good on UI and also collaborated with designer to solve it, worked on coverage for many components in the module and a feature integration for the module. <p/>
 
 <p font-size = "18"> 🤝 I am looking for the open sorce contribution , If you want to help please message me. It will be really helpfull.<p/>
 <br/>
