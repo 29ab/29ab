@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About me
 
- <p font-size = "18">🌱 I’m a Software Engineer (frontend) and having 2years of exprience. Solved several bugs, several UI bugs & giving proper solution so that it could look good on UI and also collaborated with designer to solve it, worked on coverage for many components in the module and a feature integration for the module. <p/>
+ <p font-size = "18">🌱 Skilled Software Engineer (frontend) and having 2years of exprience. Solved several bugs, several UI bugs & giving proper solution so that it could look good on UI and also collaborated with designer to solve it, worked on coverage for many components in the module and a feature integration for the module. <p/>
 
-<p font-size = "18"> 🤝 I am looking for the open sorce contribution , If you want to help please message me. It will be really helpfull.<p/>
+<p font-size = "18"> 🤝 Looking for the open sorce contribution , If you want to help please message me. It will be really helpfull.<p/>
 <br/>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h3 align="center">Connect with me:</h3><br/>
