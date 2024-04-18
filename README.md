@@ -13,8 +13,7 @@
 <h3 align="center">Connect with me:</h3><br/>
 
 <p align="center">
-<a href="https://codepen.io/@29pen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@29pen" height="30" width="40" /></a> &nbsp &nbsp 
-<a href="https://twitter.com/@abhishe37101858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe37101858" height="30" width="40" /></a>&nbsp &nbsp
+<a href="https://codepen.io/@29pen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@29pen" height="30" width="40" /></a> &nbsp &nbsp
 <a href="https://linkedin.com/in/abhishek chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek chauhan" height="30" width="40" /></a>&nbsp &nbsp
 <a href="https://stackoverflow.com/users/user:17816793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17816793" height="30" width="40" /></a>&nbsp &nbsp
 <a href="https://instagram.com/abhishek chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek chauhan" height="30" width="40" /></a>&nbsp &nbsp
